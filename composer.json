@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smalot/pdfparser": "^2.2",
+        "php": ">=7.4"
+    }
+} 
